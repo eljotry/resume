@@ -1,12 +1,12 @@
 import React from "react";
-import "./index.css"; // Импортируйте стили Tailwind
-import Footer from "./components/Footer"; // Импортируем Footer
-import Navbar from "./components/Navbar"; // Импортируем Navbar
-import Header from "./components/Header"; // Импортируем Header
-import About from "./components/About"; // Импортируем About
-import MySkills from "./components/MySkills"; // Импортируем MySkills
-import MyWorks from "./components/MyWorks"; // Импортируем MyWorks
-import Offers from "./components/Offers"; // Импортируем Offers
+import "./index.css"; 
+import Footer from "./components/Footer"; 
+import Navbar from "./components/Navbar"; 
+import Header from "./components/Header"; 
+import About from "./components/About";
+import MySkills from "./components/MySkills";
+import MyWorks from "./components/MyWorks"; 
+import Offers from "./components/Offers"; 
 
 const App = () => {
   return (
