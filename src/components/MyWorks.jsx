@@ -1,4 +1,8 @@
 import React from "react";
+import todoImage from '../images/todoIst.jpg';
+import lamodaImage from '../images/lamoda.jpg';
+import apiImage from '../images/api.jpg';
+import notionImage from '../images/notion.jpg';
 
 const MyWorks = () => {
   const projects = [
@@ -7,7 +11,7 @@ const MyWorks = () => {
       github: "https://github.com/eljotry/todoist",
       description:
         "An application for creating a task to work with them. Supports sorting, searching, editing and deleting.",
-      image: "src/images/todoList.jpg",
+      image: todoImage,
       technologies: ["React", "CSS Module", "JS"],
     },
     {
@@ -15,7 +19,7 @@ const MyWorks = () => {
       github: "https://github.com/eljotry/lamoda",
       description:
         "An online store with the ability to search, filter, and sort products.",
-      image: "src/images/lamoda.jpg",
+      image: lamodaImage,
       technologies: ["JS", "React"],
     },
     {
@@ -23,7 +27,7 @@ const MyWorks = () => {
       github: "https://github.com/eljotry/api",
       description:
         "A multi-page application that stores baskets and an ice album. The API and react-router-domain were used to create it.",
-      image: "src/images/api.jpg",
+      image: apiImage,
       technologies: ["JS", "React"],
     },
     {
@@ -31,7 +35,7 @@ const MyWorks = () => {
       github: "https://github.com/eljotry/notion",
       description:
         "An application for registering users and adding tasks. It works with many users.",
-      image: "src/images/notion.jpg",
+      image: notionImage,
       technologies: ["React", "Redux", "Json Server"],
     },
   ];
