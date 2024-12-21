@@ -1,6 +1,5 @@
-// src/components/Header.js
 import React from "react";
-import meImage from "../images/me.jpg"; // Импортируйте изображение
+import meImage from "../images/me.jpg"; 
 
 const Header = () => {
   return (
