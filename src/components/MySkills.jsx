@@ -6,9 +6,9 @@ const MySkills = () => {
       <h2 className="text-3xl md:text-4xl font-bold mb-6">My skills</h2>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8">
         <div className="p-4 md:p-5 rounded-lg border border-black">
-          <h3 className="text-xl md:text-2xl font-semibold mb-2">Education</h3>
+          <h3 className="text-xl md:text-2xl font-semibold mb-2">Work Experience</h3>
           <p>
-            I am a 2nd year student of the Faculty of Mechanics and Mathematics of BSU, specialty "web programming and Internet technologies".
+            I am a 2nd year student of the Faculty of Mechanics and Mathematics of BSU, specialty "web programming and Internet technologies". </br> Freelance, self-employment.
           </p>
         </div>
         <div className="p-4 md:p-5 rounded-lg border border-black">
