@@ -8,7 +8,7 @@ const MySkills = () => {
         <div className="p-4 md:p-5 rounded-lg border border-black">
           <h3 className="text-xl md:text-2xl font-semibold mb-2">Work Experience</h3>
           <p>
-            I am a 2nd year student of the Faculty of Mechanics and Mathematics of BSU, specialty "web programming and Internet technologies". </br> Freelance, self-employment.
+            I am a 2nd year student of the Faculty of Mechanics and Mathematics of BSU, specialty "web programming and Internet technologies". <br /> Freelance, self-employment.
           </p>
         </div>
         <div className="p-4 md:p-5 rounded-lg border border-black">
