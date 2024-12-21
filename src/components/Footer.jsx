@@ -1,7 +1,7 @@
 import React from "react";
-import TelegramIcon from "../icons/telegram.svg"; // Путь к иконке Telegram
-import EmailIcon from "../icons/email.svg"; // Путь к иконке Email
-import PhoneIcon from "../icons/phone.svg"; // Путь к иконке Телефон
+import TelegramIcon from "../icons/telegram.svg"; 
+import EmailIcon from "../icons/email.svg"; 
+import PhoneIcon from "../icons/phone.svg"; 
 
 const Footer = () => {
   return (
